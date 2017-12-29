@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Test post--Logic
+title: Test post--Metaphysics
 comments: false
 external-url:
-categories: Logic
+categories: Metaphysics
 published: true
 ---
 

@@ -25,3 +25,8 @@ encoding: UTF-8
 
 # theme: minima
 # remote-theme: lanyon
+
+# plugins:
+#  - jekyll-font-awesome-sass
+#font-awesome:
+#  assets: true
