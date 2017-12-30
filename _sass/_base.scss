@@ -25,6 +25,10 @@ body {
     text-align: right !important;
   }
 
+  .copyright {
+    font-size: $smaller-font-size;
+  }
+
   a, a:hover {
     color: $alt-color;
   }
